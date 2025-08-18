@@ -1,8 +1,11 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Tech Tree Root Logo" width="300"/>
-</p>
 
-# 🌱 Tech Tree Root (TTR)
+<div align="left">
+  <h1>
+    🌱 Tech Tree Root (TTR)
+    <img src="assets/logo.jpg" alt="Tech Tree Root Logo" width="150" align="right"/>
+  </h1>
+</div>
+
 
 **Tech Tree Root (TTR)** is my personal, feature-driven project where I bring together software, hardware, and AI tools into one structured system. Inspired by the idea of a tech tree, each part of the project builds on the last — with clear goals, feature unlocks, and growing complexity.
 
