@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Tech Tree Root Logo" width="300"/>
+  <img src="assets/logo.jpg" alt="Tech Tree Root Logo" width="300"/>
 </p>
 
 # 🌱 Tech Tree Root (TTR)
