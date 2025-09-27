@@ -39,7 +39,9 @@ TTR is where I:
 - **Game Dev**: Unity (C#), real-time visual systems  
 - **Embedded Systems**: Arduino, microcontrollers, sensors  
 - **IoT & Control**: Device integration, smart hardware control  
-- **Dev Tools**: Visual Studio, VS Code, Unity  
+- **Web Development (Full Stack)**: HTML, CSS, JavaScript, Django  
+- **Dev Tools**:  VS Code, Unity
+
 
 ---
 
