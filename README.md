@@ -1,7 +1,7 @@
 
 <div align="left">
   <h1>
-    🌱 Tech Tree Root (TTR)
+    🌱 Tech Tree Root (TTR) Team
     <img src="assets/logo.jpg" alt="Tech Tree Root Logo" width="150" align="right"/>
   </h1>
 </div>
