@@ -16,7 +16,7 @@ This is not just a Unity project — it connects **multiple technologies**, incl
 ## 👤 About Me
 
 - **Name**: Gladwin Mano
-- **Email**: [gwinx10@outlook.com](mailto:gwinx10@outlook.com)
+- **Email**: [gdx0369@gmail.com](mailto:gdx0369@gmail.com)
 - **Background**: Diploma in **Electrical & Electronics Engineering (EEE)**  
 - **Current Studies**: **Electronics & Communication (Advanced Communication Technology)**  
 - **Programming Knowledge**: C, C++, Python, JavaScript, Dart  
