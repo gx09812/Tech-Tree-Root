@@ -1,71 +1,152 @@
+# <h1 align="center">Hi 👋, I'm Gladwin Mano N</h1>
 
-<div align="left">
-  <h1>
-    🌱 Tech Tree Root (TTR) Team
-    <img src="assets/logo.jpg" alt="Tech Tree Root Logo" width="150" align="right"/>
-  </h1>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Developer;AI+%7C+Machine+Learning+Enthusiast;Flutter+Developer;Computer+Vision+Developer;Future+VLSI+Engineer;Always+Learning+New+Technologies" />
+</p>
 
-
-**Tech Tree Root (TTR)** is my personal, feature-driven project where I bring together software, hardware, and AI tools into one structured system. Inspired by the idea of a tech tree, each part of the project builds on the last — with clear goals, feature unlocks, and growing complexity.
-
-This is not just a Unity project — it connects **multiple technologies**, including programming, IoT, AI, embedded systems, and electrical control.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gx09812&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
-## 👤 About Me
+# 🚀 About Me
 
-- **Name**: Gladwin Mano
-- **Email**: [gdx0369@gmail.com](mailto:gdx0369@gmail.com)
-- **Background**: Diploma in **Electrical & Electronics Engineering (EEE)**  
-- **Current Studies**: **Electronics & Communication (Advanced Communication Technology)**  
-- **Programming Knowledge**: C, C++, Python, JavaScript, Dart  
+🎓 Electronics & Communication Engineering Student
 
----
+💡 Passionate about solving real-world engineering problems using software and hardware.
 
-## 🎯 Project Vision
+💻 Interested in
 
-TTR is where I:  
-- Build and connect projects across multiple platforms  
-- Explore new tools and technologies  
-- Develop features with a clear, goal-based path  
-- Track how systems evolve and depend on each other  
+- Artificial Intelligence
+- Machine Learning
+- Embedded Systems
+- Computer Vision
+- Flutter Development
+- Computer Networking
+- IoT
+- VLSI Design
 
----
+🎯 Current Goal
 
-## 🧠 Technologies Used
-
-- **Programming**: C, C++, Python, JavaScript, Dart (Flutter)  
-- **AI**: ML models, smart logic integration (planned)  
-- **Game Dev**: Unity (C#), real-time visual systems  
-- **Embedded Systems**: Arduino, microcontrollers, sensors  
-- **IoT & Control**: Device integration, smart hardware control  
-- **Web Development (Full Stack)**: HTML, CSS, JavaScript, Django  
-- **Dev Tools**:  VS Code, Unity
-
+Become a Core VLSI Engineer while continuously learning AI, Embedded Systems, and next-generation technologies.
 
 ---
 
-## 🚧 Current Focus
+# ⚡ Current Projects
 
-- Unity foundation setup  
-- Basic tech node logic  
-- Planning hardware-software interaction  
-- Uploading experiments and new features regularly  
+🔥 Offline Gym Membership Management System (Flutter)
 
----
+📷 CamVis – Camera Streaming over TCP
 
-## 🔍 Example Use Cases
+🤖 AI & Machine Learning Learning Journey
 
-- Game feature trees in Unity  
-- AI-enhanced systems  
-- IoT devices communicating with game logic  
-- Embedded control systems (lights, motors, sensors)  
-- Cross-platform experimentation and learning  
+🌐 Networking Projects using Python
 
 ---
 
-## 📦 Getting Started
+# 🛠 Languages & Tools
 
-```bash
-git clone https://github.com/gx09812/Tech-Tree-Root-TTR-.git
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,dart,flutter,java,git,github,linux,ubuntu,vscode,opencv,tensorflow,pytorch,sqlite,firebase,html,css&perline=9"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gx09812&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gx09812&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=gx09812&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gx09812&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gx09812&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌱 Learning
+
+- Deep Learning
+- Computer Vision
+- Data Science
+- CNN
+- Neural Networks
+- Embedded Linux
+- FPGA
+- VLSI
+- ASIC Design
+
+---
+
+# 💡 Quote
+
+> "Technology isn't just about writing code—it's about building the future."
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/gx09812">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gladwin-mano-n-4175283b4/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below to generate this animation automatically.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/gx09812/gx09812/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
